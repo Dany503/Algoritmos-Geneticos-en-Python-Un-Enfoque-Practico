@@ -1,1 +1,4 @@
 Esta carpeta incluye todo el material del Capítulo 1.
+
+Capitulo1_Problema_Sencillo.py --> Lanza el algoritmo genético una sola vez.
+Capitulo1_Problema_Sencillo_Iteraciones.py --> Lanza el algoritmo genético múltiples veces.
